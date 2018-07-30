@@ -18,9 +18,7 @@
         }
     },
     "require": {
-        "php": ">=5.5.9",
-        "ext-mbstring": "*",
-        "symfony/serializer": "^2.8.0 || ^3.0.3 || ^4.0.0"
+        "php-ffmpeg/php-ffmpeg": "^0.12"
     },
     "minimum-stability": "dev"
 }
