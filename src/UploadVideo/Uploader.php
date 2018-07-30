@@ -1,5 +1,6 @@
 <?php
-namespace Yuda\UploadVideo;
+namespace UploadVideo;
+
 /**
  * @author yuda KLN
  * @copyright 2018

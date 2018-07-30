@@ -14,11 +14,13 @@
     ],
     "autoload": {
         "psr-4": {
-            "Yuda\\UploadVideo\\": "src/Yuda/UploadVideo"
+            "UploadVideo\\": "src/"
         }
     },
     "require": {
-        
+        "php": ">=5.5.9",
+        "ext-mbstring": "*",
+        "symfony/serializer": "^2.8.0 || ^3.0.3 || ^4.0.0"
     },
     "minimum-stability": "dev"
 }
