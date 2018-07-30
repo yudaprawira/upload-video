@@ -1,0 +1,24 @@
+{
+    "name": "yuda/upload-video",
+    "description": "Upload Video",
+    "homepage": "https://github.com/yudaprawira/upload-video",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuda Prawira",
+            "email": "mail@yuda.tk",
+            "homepage": "http://yuda.tk",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yuda\\UploadVideo\\": "src/Yuda/UploadVideo"
+        }
+    },
+    "require": {
+        
+    },
+    "minimum-stability": "dev"
+}
