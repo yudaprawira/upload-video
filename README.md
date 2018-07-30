@@ -1,6 +1,6 @@
 # Upload Video
 
-[![Build Status](https://img.shields.io/badge/packagist-v1.0.0-blue.svg)](https://packagist.org/packages/yudaprawira/upload-video)
+[![Build Status](https://img.shields.io/badge/packagist-v1.0.2-blue.svg)](https://packagist.org/packages/yudaprawira/upload-video)
 
 Library untuk upload video.
 
