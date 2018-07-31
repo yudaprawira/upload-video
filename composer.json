@@ -8,13 +8,13 @@
         {
             "name": "Yuda Prawira",
             "email": "mail@yuda.tk",
-            "homepage": "http://yuda.tk",
+            "homepage": "https://yuda.tk",
             "role": "Developer"
         }
     ],
     "autoload": {
         "psr-4": {
-            "UploadVideo\\": "src/UploadVideo"
+            "Yuda\\UploadVideo\\": "src/UploadVideo"
         }
     },
     "require": {

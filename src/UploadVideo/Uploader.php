@@ -1,5 +1,5 @@
 <?php
-namespace UploadVideo;
+namespace Yuda\UploadVideo;
 
 /**
  * @author yuda KLN
@@ -10,7 +10,7 @@ class Uploader
 {
     function init()
     {
-        echo 'test';
+        echo 'test namespace';
     }
 }
 
